@@ -1,0 +1,34 @@
+{
+ "region": "충남 금산군 추부면",
+ "nameEn": "Joongbu University Chungcheong Campus",
+ "added": "2026-11-01T02:27",
+ "rank": 198,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "DST",
+   "campus": "대전과학기술대학교",
+   "km": 13.9
+  },
+  {
+   "code": "CNU-BOWOON",
+   "campus": "충남대학교 보운캠퍼스",
+   "km": 14.1
+  },
+  {
+   "code": "WSU-EAST",
+   "campus": "우송대학교 동캠퍼스",
+   "km": 15.8
+  },
+  {
+   "code": "DJU",
+   "campus": "대전대학교",
+   "km": 15.9
+  },
+  {
+   "code": "KONYANG-DAEJEON",
+   "campus": "건양대학교 대전메디컬캠퍼스",
+   "km": 16.0
+  }
+ ]
+}
